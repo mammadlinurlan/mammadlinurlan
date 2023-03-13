@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+	<a href="https://spotify-github-profile.vercel.app/api/view?uid=21bfyupy2433uqzykgh3ez4mq&redirect=true">
+		<img src="https://spotify-github-profile.vercel.app/api/view?uid=21bfyupy2433uqzykgh3ez4mq&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" />
+	</a>
+</p>
